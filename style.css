@@ -1,0 +1,84 @@
+body
+{
+    background-image: url("bi.jpg");
+    background-size: cover;
+}
+
+
+
+.heading
+{
+   margin-top: 0px;
+   width: 100%; 
+   font-size: 35px; 
+   font-family:monospace;
+   font-weight:bold ;
+}
+
+
+#object_name_input
+{
+    width: 40%;
+    
+}
+
+
+#start
+{
+    font-size: 15px;
+    font-weight: bold;
+    font-family:monospace;
+}
+
+
+
+.copy_right_footer
+{
+  position: fixed;
+    color:white;
+    bottom: 0;
+    width:50%;
+    background-color: grey;
+    line-height: 4;
+    text-align:center;
+    margin-left: 25%;
+    font-weight: bold;
+    
+}
+
+
+
+.ob
+{
+    color: black;
+    width: 10%;
+    border-radius: 100px;
+    font-family: Arial;
+    font-weight: bold;
+}
+
+
+
+p
+{
+  background-color: skyblue;
+  width: 100%;
+  
+}
+
+
+
+h2
+{
+     font-size: 22px !important;
+}
+
+
+
+canvas
+{
+    box-shadow: 10px 10px 10px grey;
+    border-radius:10px;
+    margin-top: 20%;
+    
+}
